@@ -1,0 +1,148 @@
+.section {
+    margin-top: 30px;
+}
+
+
+.group {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    background-color: #C6DBEA;
+    width: fit-content;
+    margin: auto;
+    gap: 6rem;
+    padding: 0.1rem 2rem;
+    height: fit-content;
+    border-radius: 500px;
+    font-weight: 500;
+}
+
+.texthover:hover {
+    color: #1976d2;
+}
+
+.learntext {
+    font-size: 3rem;
+    font-weight: bold;
+
+}
+
+.wintext {
+    font-size: 2rem;
+}
+
+.bluetext {
+    color: #1976d2;
+}
+
+.firstsecond {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #C6DBEA;
+    width: max-content;
+    margin: auto;
+    gap: 3rem;
+    border-radius: 20px;
+    padding: 5px;
+    box-shadow: 0px 0px 20px #aaaaaa;
+    margin-top: 20px;
+}
+
+.first{
+    text-align: left;
+    padding:10px;
+    width:18rem;
+}
+
+/* refer component */
+.img3 {
+    padding: 20px;
+}
+
+/* FAQ COMPONENT */
+.frequenttext,
+.whattext,
+.how {
+    font-size: 1.8rem;
+    font-weight: bold;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.btn-grp {
+    display: flex;
+    flex-direction: column;
+    width: fit-content;
+    gap: 2rem;
+}
+
+.accordion-ques {
+    width: 45rem;
+}
+
+.faq-main {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 4rem;
+}
+
+/* getin touch component */
+.getmain {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 2.5rem;
+    margin-bottom: 3rem;
+}
+
+.imgtext {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 1.5rem;
+}
+
+.getin {
+    background-color: #1976d2;
+    width: 60rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    gap: 5rem;
+    border-radius: 10px;
+    color: white;
+    padding: 10px;
+}
+
+/* referal benefits */
+.referalmain {
+    width: 60rem;
+    margin: auto;
+}
+
+.referal {
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.switch {
+
+    align-self: flex-end;
+    margin-bottom: 10px;
+}
+
+.show {
+    align-self: flex-end;
+    padding: 10px;
+}
+
+.MuiButtonBase-root-MuiTab-root,.Mui-selected {
+    color: #FFFFFF !important;
+    background-color: #1976d2 !important;
+}
