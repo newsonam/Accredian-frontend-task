@@ -1,4 +1,7 @@
-# SCREENSHOTS
+# SCREENSHOTS and google drive link of video clip showing project working
+
+https://drive.google.com/file/d/1zLnJqxgBIxxM2rDkCpIZjbSSA_9r4O0b/view?usp=sharing
+
 ![Screenshot 2024-07-20 231810](https://github.com/user-attachments/assets/9c89bc41-934d-48a8-a85d-d930f6a8fa8d)
 
 ![Screenshot 2024-07-20 231821](https://github.com/user-attachments/assets/1207818a-1b0f-4df4-b55f-b0987ee205d4)
